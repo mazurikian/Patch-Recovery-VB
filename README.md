@@ -2,7 +2,7 @@
 You can also refer this [script](https://github.com/engineer4t/fastboot-patcher)
 
 # Patch-Recovery (Vendor Boot Header v4)
-This CI service patches recovery images of Samsung to enable Fastbootd. Based on Phh's [script](https://github.com/phhusson/samsung-galaxy-a51-gsi-boot)
+[Work in Progress...] This CI service patches vendor_boot's recovery ramdisk (header v4) of Samsung devices to enable Fastbootd. Based on Phh's [script](https://github.com/phhusson/samsung-galaxy-a51-gsi-boot)
 
 # How to use:
 - Fork this repo.
